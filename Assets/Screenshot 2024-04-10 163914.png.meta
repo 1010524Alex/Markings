@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: be4feeca790233a40a5aac8013aa89fe
+guid: b2c0fe4b0e2a35342af24dc359bcd0c6
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -108,91 +108,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: Figures ABCD_0
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 406
-        width: 235
-        height: 255
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8ad286d33bee15c4f9bf9f350fb66934
-      internalID: -1070789744
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Figures ABCD_1
-      rect:
-        serializedVersion: 2
-        x: 666
-        y: 412
-        width: 193
-        height: 250
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8a06690f02ca10c41ae58b4c5b72d8fc
-      internalID: -1235440096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Figures ABCD_2
-      rect:
-        serializedVersion: 2
-        x: 78
-        y: 65
-        width: 225
-        height: 257
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4fba66bffabbac143868d0c141e97259
-      internalID: 1450848712
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Figures ABCD_3
-      rect:
-        serializedVersion: 2
-        x: 645
-        y: 75
-        width: 214
-        height: 249
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 11e73ca5dc2240f44876bd765da566a8
-      internalID: 274723857
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
@@ -203,11 +119,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      Figures ABCD_0: -1070789744
-      Figures ABCD_1: -1235440096
-      Figures ABCD_2: 1450848712
-      Figures ABCD_3: 274723857
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

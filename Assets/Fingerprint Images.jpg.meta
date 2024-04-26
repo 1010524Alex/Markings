@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: be4feeca790233a40a5aac8013aa89fe
+guid: 28b6fe6a488e70049b476955501c6f72
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Figures ABCD_0
+      name: Fingerprint Images_0
       rect:
         serializedVersion: 2
-        x: 80
-        y: 406
-        width: 235
-        height: 255
+        x: 23
+        y: 16
+        width: 61
+        height: 89
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ad286d33bee15c4f9bf9f350fb66934
-      internalID: -1070789744
+      spriteID: a6dc5721f69cfb540b11573d071e8d1e
+      internalID: 705876789
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Figures ABCD_1
+      name: Fingerprint Images_1
       rect:
         serializedVersion: 2
-        x: 666
-        y: 412
-        width: 193
-        height: 250
+        x: 101
+        y: 16
+        width: 62
+        height: 91
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a06690f02ca10c41ae58b4c5b72d8fc
-      internalID: -1235440096
+      spriteID: c5df1b3bae618ef428767aff5233cf25
+      internalID: -1794294855
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Figures ABCD_2
+      name: Fingerprint Images_2
       rect:
         serializedVersion: 2
-        x: 78
-        y: 65
-        width: 225
-        height: 257
+        x: 177
+        y: 11
+        width: 63
+        height: 94
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,20 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4fba66bffabbac143868d0c141e97259
-      internalID: 1450848712
+      spriteID: 6bcb2b487d8b33d4f92c1e0e04ac842c
+      internalID: 112510978
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Figures ABCD_3
+      name: Fingerprint Images_3
       rect:
         serializedVersion: 2
-        x: 645
-        y: 75
-        width: 214
-        height: 249
+        x: 246
+        y: 11
+        width: 64
+        height: 99
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,8 +187,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11e73ca5dc2240f44876bd765da566a8
-      internalID: 274723857
+      spriteID: e6ebf4bd3d9cc7b4fa9f7b3c1dfb5a50
+      internalID: -417596153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fingerprint Images_4
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 13
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3752ded478ea132418d685c755ec0218
+      internalID: 2105218568
       vertices: []
       indices: 
       edges: []
@@ -204,10 +225,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Figures ABCD_0: -1070789744
-      Figures ABCD_1: -1235440096
-      Figures ABCD_2: 1450848712
-      Figures ABCD_3: 274723857
+      Fingerprint Images_0: 705876789
+      Fingerprint Images_1: -1794294855
+      Fingerprint Images_2: 112510978
+      Fingerprint Images_3: -417596153
+      Fingerprint Images_4: 2105218568
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

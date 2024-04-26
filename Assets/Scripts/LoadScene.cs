@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEditor.SceneManagement;
 using UnityEngine.SceneManagement;
 
 public class LoadScene : MonoBehaviour
@@ -9,12 +8,12 @@ public class LoadScene : MonoBehaviour
     // Start is called before the first frame update
     public void MenuButton()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(0);
     }
 
     public void InstructionsButton()
     {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(4);
     }
 
     public void PlayButton()
@@ -25,5 +24,15 @@ public class LoadScene : MonoBehaviour
     public void QuitButton()
     {
         Application.Quit();
+    }
+
+    public void GameOver()
+    {
+        SceneManager.LoadScene(2);
+    }
+
+    public void Victory()
+    {
+        SceneManager.LoadScene(3);
     }
 }
